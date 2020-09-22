@@ -11,7 +11,7 @@ app.use(
     cors(),
     graphqlHTTP( () => ({
         schema,
-        graphiql: true
+        // graphiql: true
     }))
 
 
