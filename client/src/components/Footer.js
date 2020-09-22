@@ -10,7 +10,7 @@ function Footer() {
                 This App is using the following technologies: express, graphql, apollo, react & react router, bootswatch, the spaceX api
             </div>
             <div className="col-md-6 text-left">
-                made by: <Link to="https://github.com/barbareshet">ido barnea</Link>
+                made by: <a href="https://github.com/barbareshet" target="_blank">ido barnea</a>
             </div>
             <div className="col-md-6 text-right">
                 <span className='text-muted'>&copy;</span>

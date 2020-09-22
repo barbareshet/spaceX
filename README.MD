@@ -1,11 +1,15 @@
 # Resources
 
+# Live project on Heroku
+[SpaceX Launch Mission](https://peaceful-cliffs-43596.herokuapp.com/)
+[]
+
 ## Videos: 
-* https://www.youtube.com/watch?v=SEMTj8w04Z8&list=PLillGF-RfqbZrjw48EXLdM4dsOhURCLZx&index=1
-* https://www.youtube.com/watch?v=E3NHd-PkLrQ&list=TLPQMjAwOTIwMjA47Jwfqc6YXA&index=2&t=898s
+* based on Brad Traversy'd [GraphQL With React & Apollo](https://www.youtube.com/playlist?list=PLillGF-RfqbZrjw48EXLdM4dsOhURCLZx) series with some personal touch
 
 ## Documentation:
-* https://graphql.org/code/#javascript
-* https://github.com/r-spacex/SpaceX-API
-* https://bootswatch.com/
-* https://www.apollographql.com/docs/react/get-started/
+* [graphql](https://graphql.org/code/#javascript)
+* [SpaceX api](https://github.com/r-spacex/SpaceX-API)
+* [bootswatch](https://bootswatch.com/)
+* [apollo](https://www.apollographql.com/docs/react/get-started/)
+
