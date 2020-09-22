@@ -1,4 +1,4 @@
-![picture](https://github.com/barbareshet/spaceX/blob/master/client/src/logo.png)
+![picture](https://github.com/barbareshet/spaceX/blob/master/client/src/logo.jpg)
 
 # Resources
 
